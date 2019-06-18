@@ -32,7 +32,7 @@ Currently does not include Program.cs so it cannot be run directly from the comm
 
 ## Support and contact details
 
-_Contact Tessa Sullivan @ tessa.sullivan@gmail.com_
+_Contact Tessa Sullivan @ tessa.sullivan@gmail.com or Kevin Garvey @ kmgarvey279@gmail.com_
 
 ### License
 
