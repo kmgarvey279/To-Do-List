@@ -2,7 +2,7 @@
 
 #### A program that allows users to record items on a list with a description.
 
-#### By **Tessa Sullivan**
+#### By **Tessa Sullivan and Kevin Garvey**
 
 ## Description
 
@@ -38,4 +38,4 @@ _Contact Tessa Sullivan @ tessa.sullivan@gmail.com_
 
 *{This software is licensed under the MIT license}*
 
-Copyright (c) 2019 **_Tessa Sullivan_**
+Copyright (c) 2019 **_Tessa Sullivan and Kevin Garvey_**
